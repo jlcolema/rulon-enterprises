@@ -1,0 +1,18 @@
+/* CSS Libraries
+--------------------------------------------- */
+
+@import url("reset.css");
+
+
+/* Core, Patch-free Design
+--------------------------------------------- */
+
+@import url("screen.css");
+
+
+/* Browser-specific Patches
+--------------------------------------------- */
+
+/*\*//*/
+@import url("patches/mac-ie5.css");
+/**/
